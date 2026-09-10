@@ -1,0 +1,20 @@
+numpy==1.26.4
+opencv-python==4.10.0.84
+mediapipe==0.10.35
+numpy==1.26.4
+numpy==1.26.4
+scipy==1.13.1
+
+# Phase 2 (model training) — uncomment when you get there
+# torch==2.3.1
+# scikit-learn==1.5.0
+# pandas==2.2.2
+# matplotlib==3.9.0
+
+# Phase 3 (backend + dashboard) — uncomment when you get there
+# fastapi==0.111.0
+# uvicorn[standard]==0.30.1
+# websockets==12.0
+# streamlit==1.36.0
+# streamlit-webrtc==0.47.7
+# plotly==5.22.0
